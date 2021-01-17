@@ -1,8 +1,9 @@
 # image_task
 
 This is a developer intern challenge question:
-build an image repository
-examples of what you can work on:
+build an image repository.
+
+Examples of what you can work on:
   SEARCH function
     from characteristics of the images
     from text
