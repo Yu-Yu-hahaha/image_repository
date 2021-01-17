@@ -1,4 +1,4 @@
-# image_task
+# image_repository
 
 This is a developer intern challenge question:
 build an image repository.
